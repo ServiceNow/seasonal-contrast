@@ -1,0 +1,11 @@
+torch
+torchvision
+pytorch-lightning>=1.1.1, <1.2
+pytorch-lightning-bolts
+scikit-learn
+scikit-image
+earthengine-api
+rasterio
+lmdb
+pyshp
+shapely
